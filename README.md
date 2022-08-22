@@ -10,6 +10,8 @@
 - 💬 Ask me about backend, Azure Cloud, DevOps, Physic, Electronic and maths.
 - 😄 Pronouns: 'he/him'
 
+---
+
 ### 🚀 Coding
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -40,8 +42,11 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
+---
 
+### 🎧 Spotify Playing
 
+<img src="https://novatorem-20981ldtq-luismiguel010.vercel.app"/>
 
 
 
