@@ -50,7 +50,7 @@
 
 ### 🎧 Spotify Playing
 
-<img src="http://novatorem-luismiguel010.vercel.app/api/spotify"/>
+[<img src="http://novatorem-luismiguel010.vercel.app/api/spotify"/>](https://open.spotify.com/user/12136862688?si=cd250cd570454874)
 
 
 
