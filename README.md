@@ -48,9 +48,7 @@
 
 ### 🎧 Spotify Playing
 
-<img src="https://novatorem-20981ldtq-luismiguel010.vercel.app"/>
-
-
+<img src="http://novatorem-luismiguel010.vercel.app/api/spotify"/>
 
 
 
