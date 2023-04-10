@@ -6,7 +6,7 @@
 ### 💻 Backend Developer
 
 - 🔭 I’m currently working on [Mercado Libre](https://www.mercadolibre.com.co/)
-- 🌱 I’m currently learning more about Cloud Infraestructure.
+- 🌱 I’m currently learning more about Data Scients, IA, and the best practice for Backend Developer.
 - 💬 Ask me about backend, Azure Cloud, DevOps, Physic, Electronic and maths.
 - 😄 Pronouns: 'he/him'
 
