@@ -5,7 +5,7 @@
 
 ### 💻 Backend Developer
 
-- 🔭 I’m currently working on [Ceiba Software](https://www.ceiba.com.co/en/home/) and [Universidad Católica de Oriente](https://www.uco.edu.co/) 
+- 🔭 I’m currently working on [Mercado Libre](https://www.mercadolibre.com.co/)
 - 🌱 I’m currently learning more about Cloud Infraestructure.
 - 💬 Ask me about backend, Azure Cloud, DevOps, Physic, Electronic and maths.
 - 😄 Pronouns: 'he/him'
